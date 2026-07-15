@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Finley Nye</h1>
+<h1 align="center">Hi, I'm Finley Nye</h1>
 <h3 align="center">Student Developer - University of Brighton, Studying Computer Science for Games!</h3>
 
-- 🔭 I’m currently working on [CI536 Integrated Group Project](https://github.com/Finnix14/CI536_Integrated_Group_Project)
+- I’m currently working on [Fright Night: 1985](https://github.com/finleynye/Untitled-Horror-Game)
 
-- 🌱 I’m currently learning **C++, JavaScript, Extending Knowledge In UE5 Blueprints**
+- I’m currently learning **JavaScript, Phaser 3/4 and Unity C# Multiplayer**
 
-- 👨‍💻 All of my projects are available at [https://finleynyedev.com/projects](https://finleynyedev.com/projects)
+- All of my projects are available at [https://finleynyedev.com/projects](https://finleynyedev.com/projects)
 
-- 💬 Ask me about **Unity, C#**
+- Ask me about **Unity, C#**
 
-- 📫 How to reach me **finnyedev@gmail.com**
+- How to reach me **finnyedev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 (https://www.youtube.com/@FinleyNyeDev/videos)
